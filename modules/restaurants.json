@@ -1,0 +1,16 @@
+[   {
+    "id": 1,
+    "city": "berlin",
+    "restaurant": "Knofi"
+},
+{
+    "id": 2,
+    "city": "munich",
+    "restaurant": "Taj"
+},
+{
+    "id": 3,
+    "city": "berlin",
+    "restaurant": "Mirchi"
+}
+]
